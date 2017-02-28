@@ -5,7 +5,8 @@
     "authors": [
         {
             "name": "Matcha Labs",
-            "support": "https://wordpress.org/support/plugin/ml-slider"
+            "homepage": "https://wordpress.org/plugins/ml-slider"
         }
-    ]
+    ],
+    "license": "GPL-2.0"
 }
