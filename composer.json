@@ -2,10 +2,12 @@
     "name":  "noelspringer/ml-slider",
     "type": "wordpress-plugin",
     "description": "Create SEO optimised responsive slideshows with Nivo Slider, Flex Slider, Coin Slider and Responsive Slides.",
+    "homepage": "https://wordpress.org/plugins/ml-slider",
     "authors": [
         {
             "name": "Matcha Labs",
-            "homepage": "https://wordpress.org/plugins/ml-slider"
+            "email": "hello@matchalabs.com",
+            "homepage": "http://www.matchalabs.com/"
         }
     ],
     "license": "GPL-2.0"
